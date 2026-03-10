@@ -27,11 +27,15 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+CIRCUIT DIAGRAM:
+<img width="1700" height="885" alt="Screenshot 2026-03-10 214702" src="https://github.com/user-attachments/assets/4afd1274-9577-4fc5-bbc3-d8f836360c1f" />
+<img width="1714" height="866" alt="Screenshot 2026-03-10 214722" src="https://github.com/user-attachments/assets/1bb574ee-94fc-4db8-8bf5-fb0e60e3cf04" />
 
-V-I & REGULATION CHARACTERISTICS:
+REGULATION:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/17bbef8c-272e-48e9-81c9-56b5e00cb394" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/eebf14de-7332-4a71-878b-45dd2fa240ea" />
+
 
 PRECAUTIONS:
 
